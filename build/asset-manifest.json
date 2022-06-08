@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4ed2a735.css",
+    "main.js": "/static/js/main.ea5d3054.js",
+    "static/media/bg.mp4": "/static/media/bg.02181cf07d76f4fdc044.mp4",
+    "static/media/DynamicFight_2.mp3": "/static/media/DynamicFight_2.5cdde0aba4b45f2a0579.mp3",
+    "static/media/destroyer_1.mp3": "/static/media/destroyer_1.d451407e24088126f560.mp3",
+    "static/media/laser.mp3": "/static/media/laser.e76d9a33b9da438aab08.mp3",
+    "static/media/destroyer_2.mp3": "/static/media/destroyer_2.97f6f1a4843fe928c7c7.mp3",
+    "static/media/psz_dead.mp3": "/static/media/psz_dead.f140bfb889a2a8f0fe05.mp3",
+    "static/media/Replay.png": "/static/media/Replay.039e9e2225ce23a226c1.png",
+    "static/media/StartPlay_0035_Package-----------------.png": "/static/media/StartPlay_0035_Package-----------------.4724b91503047dddd32e.png",
+    "static/media/Home.png": "/static/media/Home.2ccc36b036e4c73039da.png",
+    "static/media/AngelWing_I_150x100.png": "/static/media/AngelWing_I_150x100.b7cd0d019edbe273857a.png",
+    "index.html": "/index.html",
+    "main.4ed2a735.css.map": "/static/css/main.4ed2a735.css.map",
+    "main.ea5d3054.js.map": "/static/js/main.ea5d3054.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ed2a735.css",
+    "static/js/main.ea5d3054.js"
+  ]
+}
