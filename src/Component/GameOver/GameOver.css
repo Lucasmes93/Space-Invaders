@@ -1,0 +1,50 @@
+.GameOver {
+    margin: auto;
+    height: 40%;
+    width: 50%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border: 1px solid white;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.GameOver h1 {
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    margin: 20px;
+}
+
+.choice {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.choice button {
+    width: 150px;
+    box-shadow: 5px 5px 15px black;
+    font-weight: bold;
+    font-size: 1.1rem;
+    border: 3px solid #c8b6ff;
+    background: transparent;
+    color: #F8F9FA;
+    transition: all 0.5s ease;
+    cursor: pointer;
+}
+
+.choice button:hover {
+    background-color: #c8b6ff;
+    color: #F8F9FA;
+}
+
+
+
+
